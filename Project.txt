@@ -1,0 +1,63 @@
+<!DOCTYPE html> <!-- HTML5 Decleration-->
+<html>
+    <head>
+        <meta name="author" content="Anishma">
+        <meta charset = "UTF-8">
+        <meta name="keywords" content="Order, Food, Delivery">
+        <title>First Webpage</title>
+        <link rel="icon" href="https://i.postimg.cc/76kStDSv/food-Wallpaper.png"/>
+        <!-- It justs provides a link -->
+        <!-- your comment -->
+    </head>
+    <body>
+        <img src="https://i.postimg.cc/76kStDSv/food-Wallpaper.png" alt="No image, Download failed due to some reason" height="30%" width="50%"/>
+        <!-- It will embed the image in your code. -->
+        <br/>
+        <hr/>
+        <select style="color:orange;">
+            <option>Select your city</option>
+            <option>Bangalore</option>
+            <option>Chennai</option>
+            <option>Mumbai</option>
+            <option>Pune</option>
+        </select>
+        <input type="text" placeholder="Please add restaurant details"/>
+        <div>
+            <img src="./Images/Breakfast.png" alt="No image,Sorry for the Inconvenience"  width="200px" height="100px" />
+            <h4>Breakfast</h4>
+            <p>Start your day with exclusive <span style="color:red;">Breakfast</span> options</p>
+        </div>
+
+        <div>
+            <img src="./Images/Lunch.png" alt="No image,Sorry for the Inconvenience"  width="200px" height="100px" />
+            <h4>Lunch</h4>
+            <p>Start your day with exclusive <span style="color:red;">Lunch</span> options</p>
+        </div>
+        
+        <div>
+            <img src="./Images/Snacks.png" alt="No image,Sorry for the Inconvenience"  width="200px" height="100px" />
+            <h4>Snacks</h4>
+            <p>Start your day with exclusive <span style="color:red;">Snacks</span> options</p>
+        </div>
+
+        <div>
+            <img src="./Images/Dinner.png" alt="No image,Sorry for the Inconvenience"  width="200px" height="100px" />
+            <h4>Dinner</h4>
+            <p>Start your day with exclusive <span style="color:red;">Dinner</span> options</p>
+        </div>
+
+        <div>
+            <img src="./Images/Drinks.png" alt="No image,Sorry for the Inconvenience"  width="200px" height="100px" />
+            <h4>Drinks</h4>
+            <p>Start your day with exclusive <span style="color:red;">Drinks</span> options</p>
+        </div>
+
+        <div>
+            <img src="./Images/Nightlife.png" alt="No image,Sorry for the Inconvenience"  width="200px" height="100px" />
+            <h4>Nightlife</h4>
+            <p>Start your day with exclusive <span style="color:red;">Nightlife</span> options</p>
+        </div>
+    </body>
+</html>
+
+<!-- your comment -->
